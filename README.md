@@ -1,2 +1,2 @@
-# caesar-cipher-ruby
-The Odin Project Ruby path - caesar cipher
+# odin-caesar-cipher
+Caesar Cipher project using Ruby
